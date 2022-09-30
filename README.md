@@ -65,6 +65,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/preciousvictory)
-- Twitter - [@yourusername](https://www.twitter.com/preciousvicky_)
+- Website - [Abiodun-Omoniyi Victory](https://preciousvictory.github.io/order-summary-component-main-frontendmentor/)
+- Frontend Mentor - [@preciousvictory](https://www.frontendmentor.io/profile/preciousvictory)
+- Twitter - [@preciousvicky_](https://www.twitter.com/preciousvicky_)
